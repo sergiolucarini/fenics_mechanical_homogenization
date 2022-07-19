@@ -6,3 +6,5 @@ If using this code for research or industrial purposes, please cite:
 S. Lucarini, M.A. Moreno-Mateos, K. Danas, D. Garcia-Gonzalez, 
 Insights into the viscohyperelastic response of soft magnetorheological elastomers: competition of macrostructural versus microstructural players
 International Journal of Solids and Structures, Under review, 2022
+
+Uses python packages numpy and fenics
