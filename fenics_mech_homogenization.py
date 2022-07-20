@@ -33,7 +33,7 @@ filename='trial'
 # filename of the input xdmf mesh
 model='s30.xdmf'
     
-# for mechanical stress control, a tensor where comopnents =1 are stress-free
+# for mechanical stress control, a tensor where comopnents =1 are stress controlled / =0 strain controlled
 control=[[1, 0, 0], [1, 1, 0], [0,0,0]]
 
 # fenics expression for the imposition of the macroscopic deformation (-I) gradient if control is 0 in that component
